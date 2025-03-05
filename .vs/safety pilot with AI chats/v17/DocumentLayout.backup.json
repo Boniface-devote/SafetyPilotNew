@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\safety pilot with AI chats\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66873E71-F1E9-4A37-86FC-E5F7E79B2017}|Assembly-CSharp.csproj|d:\\projects\\safety pilot with ai chats\\assets\\scripts\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66873E71-F1E9-4A37-86FC-E5F7E79B2017}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66873E71-F1E9-4A37-86FC-E5F7E79B2017}|Assembly-CSharp.csproj|D:\\Projects\\safety pilot with AI chats\\assets\\scripts\\chatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66873E71-F1E9-4A37-86FC-E5F7E79B2017}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66873E71-F1E9-4A37-86FC-E5F7E79B2017}|Assembly-CSharp.csproj|D:\\Projects\\safety pilot with AI chats\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66873E71-F1E9-4A37-86FC-E5F7E79B2017}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66873E71-F1E9-4A37-86FC-E5F7E79B2017}|Assembly-CSharp.csproj|D:\\Projects\\safety pilot with AI chats\\assets\\scripts\\voiceinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66873E71-F1E9-4A37-86FC-E5F7E79B2017}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\voiceinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "D:\\Projects\\safety pilot with AI chats\\Assets\\scripts\\QuizManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\QuizManager.cs",
+              "ToolTip": "D:\\Projects\\safety pilot with AI chats\\Assets\\scripts\\QuizManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\QuizManager.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:58:22.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatManager.cs",
+              "DocumentMoniker": "D:\\Projects\\safety pilot with AI chats\\Assets\\scripts\\ChatManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ChatManager.cs",
+              "ToolTip": "D:\\Projects\\safety pilot with AI chats\\Assets\\scripts\\ChatManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\ChatManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:22:35.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Projects\\safety pilot with AI chats\\Assets\\scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MainMenu.cs",
+              "ToolTip": "D:\\Projects\\safety pilot with AI chats\\Assets\\scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:28:46.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VoiceInteraction.cs",
+              "DocumentMoniker": "D:\\Projects\\safety pilot with AI chats\\Assets\\scripts\\VoiceInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\VoiceInteraction.cs",
+              "ToolTip": "D:\\Projects\\safety pilot with AI chats\\Assets\\scripts\\VoiceInteraction.cs",
+              "RelativeToolTip": "Assets\\scripts\\VoiceInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:51:03.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
